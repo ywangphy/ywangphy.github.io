@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Paul on Yan Wang</title>
+    <link>https://ywangphy.github.io/authors/i.-paul/</link>
+    <description>Recent content in I. Paul on Yan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yan Wang</copyright>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ywangphy.github.io/authors/i.-paul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effects of Lifshitz Transition on Charge Transport in Magnetic Phases of Fe-Based Superconductors</title>
+      <link>https://ywangphy.github.io/publication/y-wang-2015-a/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/y-wang-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergent Defect States as a Source of Resistivity Anisotropy in the Nematic Phase of Iron Pnictides</title>
+      <link>https://ywangphy.github.io/publication/gastiasoro-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/gastiasoro-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

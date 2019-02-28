@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. M. Dee on Yan Wang</title>
+    <link>https://ywangphy.github.io/authors/p.-m.-dee/</link>
+    <description>Recent content in P. M. Dee on Yan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yan Wang</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ywangphy.github.io/authors/p.-m.-dee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Temperature-filling phase diagram of the two-dimensional Holstein model in the thermodynamic limit by self-consistent Migdal approximation</title>
+      <link>https://ywangphy.github.io/publication/dee-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/dee-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Yan Wang</title>
+    <link>https://ywangphy.github.io/authors/admin/</link>
+    <description>Recent content in admin on Yan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yan Wang</copyright>
+    
+	<atom:link href="https://ywangphy.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ywangphy.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ywangphy.github.io/author/admin/</guid>
+      <description>About me I am a theoretical physicist in the field of condensed matter physics. Currently, I am working as a postdoc fellow in the physics department and the Institut quantique at Université de Sherbrooke, with Prof. André-Marie Tremblay on the high-temperature superconductors and other quantum materials using both analytical and computational methods for quantum many-body problems.
+During my Ph.D. studies, I worked on the theory of gap symmetry and structure in iron-based superconductors with advisor Prof.</description>
+    </item>
+    
+  </channel>
+</rss>

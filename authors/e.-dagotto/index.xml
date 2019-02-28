@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Dagotto on Yan Wang</title>
+    <link>https://ywangphy.github.io/authors/e.-dagotto/</link>
+    <description>Recent content in E. Dagotto on Yan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yan Wang</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ywangphy.github.io/authors/e.-dagotto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doping evolution of charge and spin excitations in two-leg Hubbard ladders: Comparing DMRG and FLEX results</title>
+      <link>https://ywangphy.github.io/publication/nocera-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/nocera-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonon linewidth due to electron-phonon interactions with strong forward scattering in FeSe thin films on oxide substrates</title>
+      <link>https://ywangphy.github.io/publication/y-wang-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/y-wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal correlations in the orbital selective Mott phase of a one-dimensional multiorbital Hubbard model</title>
+      <link>https://ywangphy.github.io/publication/li-2016-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/li-2016-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

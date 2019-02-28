@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Nocera on Yan Wang</title>
+    <link>https://ywangphy.github.io/authors/a.-nocera/</link>
+    <description>Recent content in A. Nocera on Yan Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Yan Wang</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ywangphy.github.io/authors/a.-nocera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doping evolution of charge and spin excitations in two-leg Hubbard ladders: Comparing DMRG and FLEX results</title>
+      <link>https://ywangphy.github.io/publication/nocera-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/nocera-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal correlations in the orbital selective Mott phase of a one-dimensional multiorbital Hubbard model</title>
+      <link>https://ywangphy.github.io/publication/li-2016-b/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://ywangphy.github.io/publication/li-2016-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
